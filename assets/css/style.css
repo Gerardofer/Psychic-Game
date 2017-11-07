@@ -1,11 +1,6 @@
 body {
-
-	/*background-image: url("../images/scott-rodgerson-375874.jpg");
-	background-position: center;
-	background-size: cover;*/
 	font-family: 'Permanent Marker', cursive;
 	font-size: 2rem;
-	/*opacity: 0.3;*/
 }
 
 #backImage{
@@ -36,4 +31,5 @@ h1 {
 
 #dashboard {
 	text-align: center;
+	margin-top: 4rem;	
 }
